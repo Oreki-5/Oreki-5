@@ -4,21 +4,22 @@ Im a Computer Science graduate interested in doing many things like,
 - Game Developement
 - Microsoft Powerpoint
 - Front-end developement
-- Java
+- Back-end development (mySQL, SQL Server)
+- javaScript(React, Angular)
 - Software Testing
-- Music (Guitarist)
-- Art (Digital art)
-- Advance Excel
+- Advanced Excel
+- RPA (UI Path)
+- Tableau
 
 Im Currently learning:
-- Machine Learning using R-studio
+- Angular jS
 - Advance Excel
 
-Looking for a paid internship in:
+Looking for a job in:
 - Game Development
-- Java
-- Advance excel
+- javaScript
 - Software testing
+- SQL
 
 
 
