@@ -12,14 +12,11 @@ Im a Computer Science graduate interested in doing many things like,
 - Tableau
 
 Im Currently learning:
-- Angular jS
-- Advance Excel
+- Spring Boot
 
 Looking for a job in:
-- Game Development
-- javaScript
-- Software testing
-- SQL
+- Game Developer
+- Back-end Developer
 
 
 
