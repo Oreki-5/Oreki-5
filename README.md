@@ -4,7 +4,7 @@ Im a Computer Science graduate interested in doing many things like,
 - Game Developement
 - Microsoft Powerpoint
 - Front-end developement
-- Back-end development (mySQL, SQL Server)
+- Back-end development (Spring Boot, mySQL, PostgreSQL, SQLServer)
 - javaScript(React, Angular)
 - Software Testing
 - Advanced Excel
