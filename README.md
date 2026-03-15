@@ -1,22 +1,22 @@
 Hello there, I’m @Oreki-5 !
 
 Im a Computer Science graduate interested in doing many things like,
-- Game Developement
-- Microsoft Powerpoint
-- Front-end developement
 - Back-end development (Spring Boot, mySQL, PostgreSQL, SQLServer)
 - javaScript(React, Angular)
+- Game Developement
+- Microsoft Powerpoint
 - Software Testing
 - Advanced Excel
 - RPA (UI Path)
 - Tableau
 
 Im Currently learning:
-- Spring Boot
+- Spring Boot, Spring Security
 
 Looking for a job in:
+- Back-end Developement
 - Game Developer
-- Back-end Developer
+
 
 
 
