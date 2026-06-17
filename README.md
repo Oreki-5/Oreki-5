@@ -9,7 +9,7 @@ Im a Computer Science graduate interested in doing many things like,
 
 
 Im Currently learning:
-- Flutter, Spring-Boot
+- Flutter
 
 Looking for a job in:
 - Back-end Developer
