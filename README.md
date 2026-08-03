@@ -1,8 +1,8 @@
 Hello there, I’m @Oreki-5 !
 
 Im a Computer Science graduate interested in doing many things like,
+- Java Developement
 - Back-end development (Spring Boot, mySQL, PostgreSQL, SQLServer)
-- Frontend { Flutter, React.js }
 - Game Developement
 - Microsoft Powerpoint
 - Advanced Excel
@@ -14,7 +14,6 @@ Im Currently learning:
 
 Looking for a job in:
 - Back-end Developer
-- Flutter Developer
 - Java Developer
 - Game Developer
 - Game Designer
