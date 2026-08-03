@@ -9,7 +9,6 @@ Im a Computer Science graduate interested in doing many things like,
 
 
 Im Currently learning:
-- Flutter
 - FastAPI
 
 Looking for a job in:
