@@ -13,10 +13,10 @@ Im Currently learning:
 - Python
 
 Looking for a job in:
-- Back-end Developer
-- Java Developer
-- Game Developer
-- Game Designer
+- Back-end Developement
+- Java Developement
+- Game Developement
+- Game Design
 
 
 
